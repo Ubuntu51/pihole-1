@@ -863,3 +863,77 @@ msh.amazon.co.uk
 
 #OneSignal
 417com.onesignal.
+
+
+#Apnoite 
+
+
+#AppLovin (MAX and SparkLabs)
+13com.applovin
+
+#Appnext
+619com.appnext.
+
+#Facebook Login
+55com.facebook.login
+
+#Facebook Share
+30com.facebook.share
+
+#Flurry
+377com.flurry.
+
+#Fyber
+582com.fyber.
+
+#Google AdMob
+30com.google.ads.
+198com.google.android.gms.ads.
+
+#Google Firebase Analytics
+11com.google.android.gms.measurement.
+
+#Inmobi
+583com.inmobi
+
+#Integral Ad Science
+168com.integralads.avid.library
+
+#Moat
+260com.moat.analytics.mobile.
+
+#Smaato
+499com.smaato.soma.
+
+#Twitter MoPub
+411com.mopub.mobileads.
+233com.mopub.nativeads.
+
+#Unity3d Ads
+16com.unity3d.ads
+336com.unity3d.services
+
+
+#Plex
+
+
+#Facebook Login
+54com.facebook.login
+
+#Facebook Places
+2com.facebook.places
+
+#Facebook Share
+80com.facebook.share
+
+#Google AdMob
+1246com.google.ads.
+
+#Google Firebase Analytics
+317com.google.android.gms.measurement.
+
+10com.google.firebase.analytics.
+
+
+
+
