@@ -936,4 +936,34 @@ msh.amazon.co.uk
 
 
 
+#Magenta
 
+#Facebook Analytics
+140com.facebook.appevents
+
+#Facebook Login
+93com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google AdMob
+19com.google.ads.
+20com.google.android.gms.ads.
+
+#Google Analytics
+2com.google.android.gms.analytics.
+
+#Google CrashLytics
+359com.google.firebase.crashlytics
+
+#Google Firebase Analytics
+18com.google.android.gms.measurement.
+23com.google.firebase.analytics.
+
+#Huawei Mobile Services (HMS) Core
+34com.huawei.hms.analytics
+45com.huawei.hms.location
+
+#MoEngage
+54com.moengage.
