@@ -967,3 +967,76 @@ msh.amazon.co.uk
 
 #MoEngage
 54com.moengage.
+
+#Casino Spiel 
+
+#AdColony
+#AppLovin (MAX and SparkLabs)
+#ChartBoost
+#Facebook Ads
+#Facebook Analytics
+#Facebook Login
+#Facebook Share
+#Google AdMob
+#Google Firebase Analytics
+#HyprMX
+#IAB Open Measurement
+#Inmobi
+#ironSource
+#Mintegral
+#Moat
+#Tenjin
+#Unity3d Ads
+
+#AdColony
+312com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+1059com.applovin
+
+#ChartBoost
+272com.chartboost.sdk.
+
+#Facebook Ads
+151com.facebook.ads
+
+#Facebook Analytics
+158com.facebook.appevents
+
+#Facebook Login
+96com.facebook.login
+
+#Facebook Share
+283com.facebook.share
+
+#Google AdMob
+36com.google.ads.
+374com.google.android.gms.ads.
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+
+#HyprMX
+163com.hyprmx.android.sdk.
+
+#IAB Open Measurement
+276com.iab.omid.library
+
+#Inmobi
+619com.inmobi
+
+#ironSource
+653com.ironsource.
+
+#Mintegral
+1459com.mintegral.
+
+#Moat
+180com.moat.analytics.mobile.
+
+#Tenjin
+8com.tenjin.android.TenjinSDK
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
