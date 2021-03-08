@@ -1040,3 +1040,128 @@ msh.amazon.co.uk
 #Unity3d Ads
 24com.unity3d.ads
 414com.unity3d.services
+
+
+#MuseumSpiel
+
+#AdColony
+257com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+765com.applovin
+
+#Bugsnag
+118com.bugsnag.
+
+#Facebook Ads
+151com.facebook.ads
+
+#Facebook Analytics
+145com.facebook.appevents
+
+#Facebook Login
+88com.facebook.login
+
+#Facebook Share
+158com.facebook.share
+
+#Flurry
+527com.flurry.
+
+#GameAnalytics
+123com.gameanalytics.sdk
+
+#Google AdMob
+178com.google.ads.
+343com.google.android.gms.ads.
+
+#Google Analytics
+17com.google.android.gms.analytics.
+
+#Google CrashLytics
+330com.google.firebase.crashlytics
+
+#Google Firebase Analytics
+321com.google.android.gms.measurement.
+22com.google.firebase.analytics.
+
+#ironSource
+143com.ironsource.
+
+#Moat
+89com.moat.analytics.mobile.
+
+#Singular
+109com.singular.sdk
+
+#Tenjin
+11com.tenjin.android.TenjinSDK
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
+
+#IdleMiner
+
+#AdColony
+312com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+1055com.applovin
+
+#AppsFlyer
+229com.appsflyer.
+
+#Braze (formerly Appboy)
+398com.appboy
+
+#ChartBoost
+272com.chartboost.sdk.
+
+#Facebook Ads
+151com.facebook.ads
+
+#Facebook Analytics
+158com.facebook.appevents
+
+#Facebook Login
+96com.facebook.login
+
+#Facebook Share
+283com.facebook.share
+
+#Google AdMob
+36com.google.ads.
+374com.google.android.gms.ads.
+
+#Google CrashLytics
+362com.google.firebase.crashlytics
+
+#Google Firebase Analytics
+332com.google.android.gms.measurement.
+27com.google.firebase.analytics.
+
+#HelpShift
+1374com.helpshift
+
+#HyprMX
+163com.hyprmx.android.sdk.
+
+#IAB Open Measurement
+220com.iab.omid.library
+
+#ironSource
+654com.ironsource.
+
+#Moat
+89com.moat.analytics.mobile.
+
+#Ogury Presage
+38io.presage.
+
+#Tapjoy
+611com.tapjoy.
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
