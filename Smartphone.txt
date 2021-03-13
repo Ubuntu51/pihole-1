@@ -1165,3 +1165,11 @@ msh.amazon.co.uk
 #Unity3d Ads
 24com.unity3d.ads
 414com.unity3d.services
+
+#Bitwarden
+#Google Firebase Analytics
+4com.google.firebase.analytics.
+
+#Microsoft Visual Studio App Center Crashes
+53com.microsoft.appcenter.crashes
+
