@@ -382,3 +382,67 @@ Tracker Tablet
 #Smart
 553com.smartadserver.
 
+
+#CSRRace2
+#Adjust
+187com.adjust.sdk.
+
+#Apsalar
+37com.apsalar.sdk.
+
+#Apteligent by VMWare (formerly Crittercism)
+5com.crittercism.app.Crittercism
+
+#Braze (formerly Appboy)
+398com.appboy
+
+#Bugsnag
+118com.bugsnag.
+
+#Facebook Ads
+151com.facebook.ads
+
+#Facebook Analytics
+148com.facebook.appevents
+
+#Facebook Login
+94com.facebook.login
+
+#Facebook Share
+282com.facebook.share
+
+#Google AdMob
+36com.google.ads.
+343com.google.android.gms.ads.
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+5com.google.firebase.analytics.
+
+#HelpShift
+1409com.helpshift
+
+#IAB Open Measurement
+75com.iab.omid.library
+
+#LeanPlum
+414com.leanplum.
+
+#Moat
+89com.moat.analytics.mobile.
+
+#Tapjoy
+623com.tapjoy.
+
+#Twitter MoPub
+1067com.mopub.
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
+
+#Vungle
+424com.vungle.warren.
+
+#Google Play Install Referrer
+13com.android.installreferrer
