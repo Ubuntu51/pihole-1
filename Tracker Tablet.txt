@@ -329,3 +329,56 @@ Tracker Tablet
 #Google Firebase Analytics
 330com.google.android.gms.measurement.
 23com.google.firebase.analytics.
+
+#TVDirekt
+#Amazon Advertisement
+182com.amazon.device.ads
+
+#Facebook Ads
+153com.facebook.ads
+
+#Facebook Analytics
+107com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+281com.facebook.share
+
+#Google AdMob
+36com.google.ads.
+250com.google.android.gms.ads.
+
+#Google Analytics
+33com.google.android.apps.analytics.
+47com.google.android.gms.analytics.
+
+#Google CrashLytics
+287com.google.firebase.crash
+
+#Google Firebase Analytics
+317com.google.android.gms.measurement.
+26com.google.firebase.analytics.
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#Huawei Mobile Services (HMS) Core
+45com.huawei.hms.location
+
+#IAB Open Measurement
+158com.iab.omid.library
+
+#INFOnline
+135de.infonline.
+
+#MAdvertise
+571com.mngads.
+
+#OutBrain
+121com.outbrain.
+
+#Smart
+553com.smartadserver.
+
