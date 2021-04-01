@@ -1,5 +1,5 @@
-Smartphone.txt
-
+#Smartphone.txt
+#These are smartphone trackers that are on my devices and apps
 
 #Instabug
 41com.instabug.bug
