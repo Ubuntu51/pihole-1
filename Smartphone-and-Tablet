@@ -848,3 +848,45 @@ msh.amazon.co.uk
 
 #Google CrashLytics
 20com.google.firebase.crash
+
+#Adobe Experience Cloud
+784com.adobe.marketing.mobile
+
+#Amazon Advertisement
+651com.amazon.device.ads
+
+#AutoNavi / Amap
+1283com.amap.api
+
+#Microsoft Visual Studio App Center
+10com.microsoft.appcenter.crashes
+
+#ACRCloud
+42com.acrcloud
+
+#Facebook Analytics
+92com.facebook.appevents
+
+#Facebook Places
+20com.facebook.places
+
+#Facebook Share
+205com.facebook.share
+
+
+#Huawei Mobile Services (HMS) Core
+41com.huawei.hms.location
+
+#Sentry
+55io.sentry
+
+#Sentry
+213io.sentry
+
+#Sentry
+3io.sentry
+
+
+#Huawei Mobile Services (HMS) Core
+184com.huawei.hms.analytics
+
