@@ -1,28 +1,18 @@
 Smartphone.txt
 
-#Cloudflare - - 
-Google CrashLytics
-Google Firebase Analytics
-Instabug
-
-#Google CrashLytics
-9com.crashlytics.
-11io.fabric.
-
-#Google Firebase Analytics
-15com.google.android.gms.measurement.
-3com.google.firebase.analytics.
 
 #Instabug
 41com.instabug.bug
 2com.instabug.library.tracking
 
 #Amazon Advertisement
-#AWS Kinesis
+162com.amazon.device.ads
+
 #Amazon Analytics
-#Bugsnag
+84com.amazonaws.mobileconnectors.amazonmobileanalytics
+
 #Metrics
-#Google CrashLytics
+51com.codahale.metrics
 
 #Amazon Advertisement
 162com.amazon.device.ads
@@ -30,73 +20,14 @@ Instabug
 #Amazon Analytics
 84com.amazonaws.mobileconnectors.amazonmobileanalytics
 
-#Bugsnag
-112com.bugsnag.
-
-#Google CrashLytics
-225com.crashlytics.
-191io.fabric.
 
 #Metrics
 51com.codahale.metrics
 
-#AWS Kinesis
-26com.amazonaws.metrics.
-
-#Amazon Alexa - - 
-
-#Amazon Advertisement
-#AWS Kinesis
-#Amazon Analytics
-#Bugsnag
-#Metrics
-#Google CrashLytics
-
-#Amazon Advertisement
-162com.amazon.device.ads
-
-#Amazon Analytics
-84com.amazonaws.mobileconnectors.amazonmobileanalytics
-
-#Bugsnag
-112com.bugsnag.
-
-#Google CrashLytics
-225com.crashlytics.
-191io.fabric.
-
-#Metrics
-51com.codahale.metrics
-
-#AWS Kinesis
-26com.amazonaws.metrics.
-
-#Amazon Musik - - 
-#Amazon Advertisement
-#AWS Kinesis
-#Amazon Analytics
-#Google CrashLytics
-#Branch
 
 #Amazon Advertisement
 242com.amazon.device.ads
 
-#Amazon Analytics
-11com.amazonaws.mobileconnectors.pinpoint.analytics.
-
-#Branch
-95io.branch.
-
-#Google CrashLytics
-5com.crashlytics.
-
-#AWS Kinesis
-26com.amazonaws.metrics.
-
-#Amazon Einkaufen - - 
-#Amazon Advertisement
-#AWS Kinesis
-#Amazon Analytics
 
 #Amazon Advertisement
 573com.amazon.device.ads
@@ -104,133 +35,17 @@ Instabug
 #Amazon Analytics
 84com.amazonaws.mobileconnectors.amazonmobileanalytics
 
-#AWS Kinesis
-26com.amazonaws.metrics.
-
-#Auty - - 
-#AWS Kinesis
-#Google CrashLytics
-#Google Firebase Analytics
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-195com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#AWS Kinesis
-26com.amazonaws.metrics.
-
-
-
-#Bitpanda - - 
-#Google CrashLytics
-#Google Analytics
-#Google Firebase Analytics
-#Google Tag Manager
-
-#Google Analytics
-44com.google.android.gms.analytics.
-
-#Google CrashLytics
-178com.crashlytics.
-
-#Google Firebase Analytics
-308com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #Google Tag Manager
 33com.google.android.gms.tagmanager
-
-#vtb - - 
-#Dynatrace
-
-#Dynatrace
-12com.dynatrace.android.app.
-
-
-#vtb
-#µ?Custom Activity On Crash
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-2com.google.firebase.analytics.
 
 #µ?Custom Activity On Crash
 24cat.ereza.customactivityoncrash
 
-#Cutter
-#Google CrashLytics
-#Google DoubleClick
-#Google Ads
-#Google Firebase Analytics
-
-#Google Ads
-55com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
 
-#Google Firebase Analytics
-308com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Huawei - - 
-#Baidu Location
-
 #Baidu Location
 51com.baidu.location
-
-#Digitales Amt - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-5com.google.firebase.analytics.
-
-#Google Drive - - 
-#Google Analytics
-
-#Google Analytics
-5com.google.android.gms.analytics.
-
-#Google Duo - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Fdroit - -
-#µ?ACRA
-
-#*µ?ACRA
-136org.acra.
-
-#FairMail - - 
-#Bugsnag
-
-#Bugsnag
-81com.bugsnag.
-
-#Fing - - 
-#Google CrashLytics
-#Facebook Login
-#Facebook Places
-#Facebook Share
-#Google DoubleClick
-#Google Ads
-#Google Analytics
-#Google Firebase Analytics
-#Google Tag Manager
-#Integral Ad Science
-#Moat
-Twitter MoPub
 
 #Facebook Login
 54com.facebook.login
@@ -241,22 +56,8 @@ Twitter MoPub
 #Facebook Share
 79com.facebook.share
 
-#Google Ads
-55com.google.android.gms.ads.mediation.
-
-#Google Analytics
-26com.google.android.gms.analytics.
-
-#Google CrashLytics
-213com.crashlytics.
-149io.fabric.
-
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-316com.google.android.gms.measurement.
-10com.google.firebase.analytics.
 
 #Google Tag Manager
 38com.google.android.gms.tagmanager
@@ -264,92 +65,11 @@ Twitter MoPub
 #Integral Ad Science
 84com.integralads.avid.library
 
-#Moat
-103com.moat.analytics.mobile.
-
-#Twitter MoPub
-395com.mopub.mobileads.
-
-
-#Firefox - - 
-#Adjust
-#LeanPlum
-#Mozilla Telemetry
-
-#SAdjust
-41com.adjust.sdk.
-
-#LeanPlum
-262com.leanplum.
-
 #Mozilla Telemetry
 38org.mozilla.gecko.telemetry
 
-
-#GOOGLE Foto - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#Google Gmail - - 
-#Google Analytics
-
-#Google Analytics
-1com.google.android.gms.analytics.
-
-#Google Search - -
-#Google Analytics
-#Google Firebase Analytics
-
-#Google Analytics
-94com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-395com.google.android.gms.measurement.
-8com.google.firebase.analytics.
-
-#Google Film - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-1com.google.firebase.analytics.
-
-
-#Play Store - - 
-#Google Ads
-#Google Firebase Analytics
-
-#Google Ads
-1com.google.android.gms.ads.mediation.
-
-#Google Firebase Analytics
-16com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#Puls - - 
-
-#Google DoubleClick
-#Google Ads
-
-SGoogle Ads
-32com.google.android.gms.ads.mediation.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
-
-
-#Huawei Video - - 
-#Facebook Analytics
-#Facebook Login
-#Facebook Share
-#Google DoubleClick
-#Google Ads
-#Google Analytics
-#Google Tag Manager
 
 #Facebook Analytics
 107com.facebook.appevents
@@ -360,38 +80,12 @@ SGoogle Ads
 #Facebook Share
 197com.facebook.share
 
-#Google Ads
-29com.google.android.gms.ads.mediation.
-
-#Google Analytics
-47com.google.android.gms.analytics.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
 
 #Google Tag Manager
 196com.google.android.gms.tagmanager
 
-#IVB Scout - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Messages - - 
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-32com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Huawei Musik
-#Facebook Analytics
-#Facebook Login
-#Facebook Places
-#Facebook Share
-#Google Analytics
 
 #Facebook Analytics
 90com.facebook.appevents
@@ -405,61 +99,8 @@ SGoogle Ads
 #Facebook Share
 203com.facebook.share
 
-#Google Analytics
-47com.google.android.gms.analytics.
-
-#Google Maps - - 
-
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#N26 - -
-
-#Adjust
-#Google CrashLytics
-#Google Analytics
-#Google Firebase Analytics
-#Google Tag Manager
-#Snowplow
-
-#Adjust
-142com.adjust.sdk.
-
-#Google Analytics
-47com.google.android.gms.analytics.
-
-#Google CrashLytics
-175com.crashlytics.
-158io.fabric.
-
-#Google Firebase Analytics
-308com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #Google Tag Manager
 192com.google.android.gms.tagmanager
-
-#Snowplow
-84com.snowplowanalytics.
-
-#oeticket - -
-
-Adjust
-Google CrashLytics
-Facebook Analytics
-Facebook Login
-Facebook Places
-Facebook Share
-Google DoubleClick
-Google Ads
-Google Firebase Analytics
-Tag Commander
-
-#Adjust
-148com.adjust.sdk.
 
 #Facebook Analytics
 106com.facebook.appevents
@@ -473,140 +114,24 @@ Tag Commander
 #Facebook Share
 281com.facebook.share
 
-#Google Ads
-32com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-308com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Tag Commander
-62com.tagcommander.
-
-#Onvista - -
-#Google CrashLytics
-#Google DoubleClick
-#Google Ads
-#Google Analytics
-#Google Firebase Analytics
-#Google Tag Manager
-
-#Google Ads
-55com.google.android.gms.ads.mediation.
-
-#Google Analytics
-44com.google.android.gms.analytics.
-
-#Google CrashLytics
-213com.crashlytics.
 
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
 
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #Google Tag Manager
 33com.google.android.gms.tagmanager
 
-#Open Dokumente - - 
-#Google CrashLytics
-#Google Ads
-#Google Firebase Analytics
-
-#Google Ads
-11com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-2com.crashlytics.
-10io.fabric.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#pp - -
-
-#Adjust
-#Amplitude
-#Google CrashLytics
-#Google Ads
-#Google Firebase Analytics
-#MParticle
-
-SAdjust
-3com.adjust.sdk.
-
-#Amplitude
-1com.amplitude.
-
-#Google Ads
-10com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-213com.crashlytics.
-10io.fabric.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
 #MParticle
 273com.mparticle
-
-#Photo - - 
-
-#Google CrashLytics
-#Google Firebase Analytics
-
-#Google CrashLytics
-203com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-329com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Poket - -
-#Adjust
-#HockeyApp
-
-#Adjust
-120com.adjust.sdk.
-
-#HockeyApp
-100net.hockeyapp.
-
-#QrSanner - -
-
-#Cuebiq
-#Google DoubleClick
-#Google Ads
 
 #Cuebiq
 2com.cuebiq.cuebiqsdk.model.Collector
 1com.cuebiq.cuebiqsdk.receiver.CoverageReceiver
 
-#Google Ads
-32com.google.android.gms.ads.mediation.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
-
-#Smartlive - -
-
-#Facebook Analytics
-#Facebook Login
-#Facebook Share
-#Google Firebase Analytics
 
 #Facebook Analytics
 131com.facebook.appevents
@@ -617,105 +142,23 @@ SAdjust
 #Facebook Share
 197com.facebook.share
 
-#Google Firebase Analytics
-3com.google.firebase.analytics.
-
-#SwiftKey - -
-
-#Adjust
-#Google Analytics
-#Google Tag Manager
-#Microsoft Appcenter Crashes
-
-#Adjust
-112com.adjust.sdk.
-
-#Google Analytics
-5com.google.android.gms.analytics.
-
 #Google Tag Manager
 3com.google.android.gms.tagmanager
 
 #Microsoft Appcenter Crashes
 9com.microsoft.appcenter.crashes
 
-#upto - -
-
 #Google CrashLytics
 #Google Firebase Analytics
-
-#Google CrashLytics
-203com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-329com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Google Wearos - - 
-#Google DoubleClick
-#Google Ads
-
-#Google Ads
-28com.google.android.gms.ads.mediation.
 
 #Google DoubleClick
 3com.google.android.gms.ads.doubleclick
 
-#Yess - -
-
-#Google CrashLytics
-#Google Analytics
-#Google Firebase Analytics
-#Google Tag Manager
-#OneSignal
-
-#Google Analytics
-47com.google.android.gms.analytics.
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-308com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #Google Tag Manager
 192com.google.android.gms.tagmanager
 
-#OneSignal
-241com.onesignal.
-
-
-#YouTube - -
-
-#Google Firebase Analytics
-
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#Zeitung - - 
-
-#Google CrashLytics
-#Facebook Ads
-#Google Ads
-#Google Firebase Analytics
-
 #Facebook Ads
 136com.facebook.ads
-
-#Google Ads
-47com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-172com.crashlytics.
-
-#Google Firebase Analytics
-313com.google.android.gms.measurement.
-10com.google.firebase.analytics.
 
 #Aptoide
 ads.mopub.com
@@ -728,21 +171,10 @@ msh.amazon.co.uk
 #Amazon Advertisement 
 489com.amazon.device.ads
 
-#Amazon Analytics (Amazon insights) 
-11com.amazonaws.mobileconnectors.pinpoint.analytics.
-
 #Demdex 
 32com.adobe.mobile.Analytics 
 24com.adobe.mobile.Config
 
-#Google AdMob 
-6com.google.android.gms.ads.
-
-#Google Analytics 
-47com.google.android.gms.analytics.
-
-#Google Firebase Analytics 
-5com.google.firebase.analytics.
 
 #Google Tag Manager 
 192com.google.android.gms.tagmanager
@@ -750,36 +182,15 @@ msh.amazon.co.uk
 #Kochava 
 7com.kochava.base.Tracker
 
-#°AWS Kinesis 
-26com.amazonaws.metric.
-
-#Auroraund F-Droid
 #µ?ACRA
 24org.acra
 136org.acra
 
-#Fairmail
 #Bugsnag
 133com.bugsnag
 
-#Nextcloud
-#Google Firebase Analytics
-5com.google.firebase.analytics.
-
-#Steam
 #Google Firebase Analytics
 1com.google.firebGoogle Firebase Analytics
-
-#Huawei_HelpdeskGoogle AdMob
-#Google Analytics
-#Google Tag Manager
-#Huawei Mobile Services (HMS) Core
-
-#Google AdMob
-6com.google.android.gms.ads.
-
-#Google Analytics
-47com.google.android.gms.analytics.
 
 #Google Tag Manager
 192com.google.android.gms.tagmanager
@@ -787,73 +198,20 @@ msh.amazon.co.uk
 #Huawei Mobile Services (HMS) Core
 45com.huawei.hms.location
 
-#Telegramm
-#Google Firebase Analytics
-#Microsoft Visual Studio App Center Crashes
-
-#Google Firebase Analytics
-2com.google.firebase.analytics.
-
 #Microsoft Visual Studio App Center Crashes
 40com.microsoft.appcenter.crashes
 
-#Tor
-#Adjust
-#Google Firebase Analytics
-#LeanPlum
-
-#Adjust
-157com.adjust.sdk.
-
-#Google Firebase Analytics
-1com.google.firebase.analytics.
-
-#LeanPlum
-317com.leanplum.
-
-
-#Twitter
-#Google Firebase Analytics
-#Google CrashLytics
 
 #Google CrashLytics
 20com.google.firebase.crashlytics
 
-#Google Firebase Analytics
-321com.google.android.gms.measurement.
-9com.google.firebase.analytics.
 
 #Metrics
 102com.codahale.metrics
 
-#Whatsapp
-
-#Google Analytics
-4com.google.android.gms.analytics.
-
-#Windscribe
-#Google Firebase Analytics
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-5com.google.firebase.analytics.
-
-#Yess
-#Google AdMob
-6com.google.android.gms.ads.
-
-#Google Analytics
-47com.google.android.gms.analytics.
 
 #Google CrashLytics
 359com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-337com.google.android.gms.measurement.
-24com.google.firebase.analytics.
 
 #Google Tag Manager
 192com.google.android.gms.tagmanager
@@ -861,18 +219,8 @@ msh.amazon.co.uk
 #Huawei Mobile Services (HMS) Core
 36com.huawei.hms.analytics
 
-#OneSignal
-417com.onesignal.
-
-
-#Apnoite 
-
-
 #AppLovin (MAX and SparkLabs)
 13com.applovin
-
-#Appnext
-619com.appnext.
 
 #Facebook Login
 55com.facebook.login
@@ -880,42 +228,15 @@ msh.amazon.co.uk
 #Facebook Share
 30com.facebook.share
 
-#Flurry
-377com.flurry.
-
-#Fyber
-582com.fyber.
-
-#Google AdMob
-30com.google.ads.
-198com.google.android.gms.ads.
-
-#Google Firebase Analytics
-11com.google.android.gms.measurement.
-
 #Inmobi
 583com.inmobi
 
 #Integral Ad Science
 168com.integralads.avid.library
 
-#Moat
-260com.moat.analytics.mobile.
-
-#Smaato
-499com.smaato.soma.
-
-#Twitter MoPub
-411com.mopub.mobileads.
-233com.mopub.nativeads.
-
 #Unity3d Ads
 16com.unity3d.ads
 336com.unity3d.services
-
-
-#Plex
-
 
 #Facebook Login
 54com.facebook.login
@@ -926,18 +247,6 @@ msh.amazon.co.uk
 #Facebook Share
 80com.facebook.share
 
-#Google AdMob
-1246com.google.ads.
-
-#Google Firebase Analytics
-317com.google.android.gms.measurement.
-
-10com.google.firebase.analytics.
-
-
-
-#Magenta
-
 #Facebook Analytics
 140com.facebook.appevents
 
@@ -947,55 +256,19 @@ msh.amazon.co.uk
 #Facebook Share
 197com.facebook.share
 
-#Google AdMob
-19com.google.ads.
-20com.google.android.gms.ads.
-
-#Google Analytics
-2com.google.android.gms.analytics.
-
 #Google CrashLytics
 359com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-18com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #Huawei Mobile Services (HMS) Core
 34com.huawei.hms.analytics
 45com.huawei.hms.location
 
-#MoEngage
-54com.moengage.
-
-#Casino Spiel 
-
-#AdColony
-#AppLovin (MAX and SparkLabs)
-#ChartBoost
-#Facebook Ads
-#Facebook Analytics
-#Facebook Login
-#Facebook Share
-#Google AdMob
-#Google Firebase Analytics
-#HyprMX
-#IAB Open Measurement
-#Inmobi
-#ironSource
-#Mintegral
-#Moat
-#Tenjin
-#Unity3d Ads
 
 #AdColony
 312com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 1059com.applovin
-
-#ChartBoost
-272com.chartboost.sdk.
 
 #Facebook Ads
 151com.facebook.ads
@@ -1009,30 +282,11 @@ msh.amazon.co.uk
 #Facebook Share
 283com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-374com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-
-#HyprMX
-163com.hyprmx.android.sdk.
-
 #IAB Open Measurement
 276com.iab.omid.library
 
 #Inmobi
 619com.inmobi
-
-#ironSource
-653com.ironsource.
-
-#Mintegral
-1459com.mintegral.
-
-#Moat
-180com.moat.analytics.mobile.
 
 #Tenjin
 8com.tenjin.android.TenjinSDK
@@ -1041,17 +295,11 @@ msh.amazon.co.uk
 24com.unity3d.ads
 414com.unity3d.services
 
-
-#MuseumSpiel
-
 #AdColony
 257com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 765com.applovin
-
-#Bugsnag
-118com.bugsnag.
 
 #Facebook Ads
 151com.facebook.ads
@@ -1071,25 +319,8 @@ msh.amazon.co.uk
 #GameAnalytics
 123com.gameanalytics.sdk
 
-#Google AdMob
-178com.google.ads.
-343com.google.android.gms.ads.
-
-#Google Analytics
-17com.google.android.gms.analytics.
-
 #Google CrashLytics
 330com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-321com.google.android.gms.measurement.
-22com.google.firebase.analytics.
-
-#ironSource
-143com.ironsource.
-
-#Moat
-89com.moat.analytics.mobile.
 
 #Singular
 109com.singular.sdk
@@ -1101,22 +332,14 @@ msh.amazon.co.uk
 24com.unity3d.ads
 414com.unity3d.services
 
-#IdleMiner
-
 #AdColony
 312com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 1055com.applovin
 
-#AppsFlyer
-229com.appsflyer.
-
 #Braze (formerly Appboy)
 398com.appboy
-
-#ChartBoost
-272com.chartboost.sdk.
 
 #Facebook Ads
 151com.facebook.ads
@@ -1130,45 +353,19 @@ msh.amazon.co.uk
 #Facebook Share
 283com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-374com.google.android.gms.ads.
-
 #Google CrashLytics
 362com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-332com.google.android.gms.measurement.
-27com.google.firebase.analytics.
 
 #HelpShift
 1374com.helpshift
 
-#HyprMX
-163com.hyprmx.android.sdk.
-
 #IAB Open Measurement
 220com.iab.omid.library
-
-#ironSource
-654com.ironsource.
-
-#Moat
-89com.moat.analytics.mobile.
-
-#Ogury Presage
-38io.presage.
-
-#Tapjoy
-611com.tapjoy.
 
 #Unity3d Ads
 24com.unity3d.ads
 414com.unity3d.services
 
-#Bitwarden
-#Google Firebase Analytics
-4com.google.firebase.analytics.
 
 #Microsoft Visual Studio App Center Crashes
 53com.microsoft.appcenter.crashes
