@@ -1,4 +1,6 @@
-#These are the trackers of my devices and apps
+
+
+#These are trackers that are on my devices and apps
 
 #Instabug
 41com.instabug.bug
@@ -59,3 +61,749 @@
 
 #Facebook Login
 56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google Tag Manager
+196com.google.android.gms.tagmanager
+
+
+#Facebook Analytics
+90com.facebook.appevents
+
+#Facebook Login
+88com.facebook.login
+
+#Facebook Places
+13com.facebook.places
+
+#Facebook Share
+203com.facebook.share
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#Facebook Analytics
+106com.facebook.appevents
+
+#Facebook Login
+93com.facebook.login
+
+#Facebook Places
+61com.facebook.places
+
+#Facebook Share
+281com.facebook.share
+
+#MParticle
+273com.mparticle
+
+#Cuebiq
+2com.cuebiq.cuebiqsdk.model.Collector
+1com.cuebiq.cuebiqsdk.receiver.CoverageReceiver
+
+
+#Facebook Analytics
+131com.facebook.appevents
+
+
+#Google Tag Manager
+3com.google.android.gms.tagmanager
+
+#Microsoft Appcenter Crashes
+9com.microsoft.appcenter.crashes
+
+
+#Google DoubleClick
+3com.google.android.gms.ads.doubleclick
+
+
+#Facebook Ads
+136com.facebook.ads
+
+#Aptoide
+ads.mopub.com
+data.flurry.com
+config.inmobi.com
+
+#Audible
+msh.amazon.co.uk
+
+#Amazon Advertisement 
+489com.amazon.device.ads
+
+#Demdex 
+32com.adobe.mobile.Analytics 
+24com.adobe.mobile.Config
+
+
+#Kochava 
+7com.kochava.base.Tracker
+
+#µ?ACRA
+24org.acra
+136org.acra
+
+#Bugsnag
+133com.bugsnag
+
+#Google Firebase Analytics
+1com.google.firebGoogle Firebase Analytics
+
+
+#Huawei Mobile Services (HMS) Core
+45com.huawei.hms.location
+
+#Microsoft Visual Studio App Center Crashes
+40com.microsoft.appcenter.crashes
+
+
+#Google CrashLytics
+20com.google.firebase.crashlytics
+
+
+#Metrics
+102com.codahale.metrics
+
+
+#Google CrashLytics
+359com.google.firebase.crashlytics
+
+
+#Huawei Mobile Services (HMS) Core
+36com.huawei.hms.analytics
+
+#AppLovin (MAX and SparkLabs)
+13com.applovin
+
+#Facebook Login
+55com.facebook.login
+
+#Facebook Share
+30com.facebook.share
+
+#Inmobi
+583com.inmobi
+
+#Integral Ad Science
+168com.integralads.avid.library
+
+#Unity3d Ads
+16com.unity3d.ads
+336com.unity3d.services
+
+#Facebook Share
+80com.facebook.share
+
+#Facebook Analytics
+140com.facebook.appevents
+
+
+#Huawei Mobile Services (HMS) Core
+34com.huawei.hms.analytics
+
+#AdColony
+312com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+1059com.applovin
+
+#Facebook Ads
+151com.facebook.ads
+
+#Facebook Analytics
+158com.facebook.appevents
+
+#Facebook Login
+96com.facebook.login
+
+#Facebook Share
+283com.facebook.share
+
+#IAB Open Measurement
+276com.iab.omid.library
+
+#Inmobi
+619com.inmobi
+
+#Tenjin
+8com.tenjin.android.TenjinSDK
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
+
+#AdColony
+257com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+765com.applovin
+
+
+#Facebook Analytics
+145com.facebook.appevents
+
+
+#Facebook Share
+158com.facebook.share
+
+
+#GameAnalytics
+123com.gameanalytics.sdk
+
+#Google CrashLytics
+330com.google.firebase.crashlytics
+
+#Singular
+109com.singular.sdk
+
+#Tenjin
+11com.tenjin.android.TenjinSDK
+
+
+#AppLovin (MAX and SparkLabs)
+1055com.applovin
+
+#Braze (formerly Appboy)
+398com.appboy
+
+
+#Google CrashLytics
+362com.google.firebase.crashlytics
+
+#HelpShift
+1374com.helpshift
+
+#IAB Open Measurement
+220com.iab.omid.library
+
+
+#Microsoft Visual Studio App Center Crashes
+53com.microsoft.appcenter.crashes
+
+
+
+#µ?Google-Ads Consent
+17com.google.ads.consent
+
+ 
+#Baidu Location
+174com.baidu.location
+
+#Baidu Map
+334com.baidu.mapapi
+
+ 
+#Google Tag Manager
+65com.google.android.gms.tagmanager
+
+
+#Google Tag Manager
+191com.google.android.gms.tagmanage
+
+#AdColony
+334com.adcolony
+
+#AppLovin
+642com.applovin
+
+#Facebook Ads
+155com.facebook.ads
+
+#Facebook Analytics
+110com.facebook.appevents
+
+
+#GameAnalytics
+76com.gameanalytics.sdk
+
+
+#Inmobi
+581com.inmobi
+
+
+#Baidu Location
+96com.baidu.location
+
+#Baidu Map
+356com.baidu.mapapi
+
+
+#Google DoubleClick
+4com.google.android.gms.ads.doubleclick
+
+#Facebook Ads
+691com.facebook.ads
+
+
+#Google Tag Manager
+201com.google.android.gms.tagmanager
+
+#Amazon Advertisement
+182com.amazon.device.ads
+
+#Facebook Ads
+153com.facebook.ads
+
+
+#Google CrashLytics
+287com.google.firebase.crash
+
+
+#IAB Open Measurement
+158com.iab.omid.library
+
+#Apteligent by VMWare (formerly Crittercism)
+5com.crittercism.app.Crittercism
+
+
+#Facebook Analytics
+148com.facebook.appevents
+
+#Facebook Login
+94com.facebook.login
+
+#Facebook Share
+282com.facebook.share
+
+#HelpShift
+1409com.helpshift
+
+#IAB Open Measurement
+75com.iab.omid.library
+
+
+#Google Play Install Referrer
+13com.android.installreferrer
+
+#AnySDK
+3com.anysdk.framework.AdsWrapper
+1com.anysdk.framework.AnalyticsWrapper
+
+#IAB Open Measurement
+68com.iab.omid.library
+
+#Unity3d Ads
+358com.unity3d.services
+
+#AppLovin (MAX and SparkLabs)
+702com.applovin
+
+
+#Facebook Analytics
+88com.facebook.appevents
+
+#Facebook Login
+87com.facebook.login
+
+#Facebook Places
+12com.facebook.places
+
+#Facebook Share
+129com.facebook.share
+
+#Google CrashLytics
+379com.google.firebase.crashlytics
+
+#Inmobi
+608com.inmobi
+
+
+#Unity3d Ads
+17com.unity3d.ads
+379com.unity3d.services
+
+#AdColony
+306com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+866com.applovin
+
+
+#Facebook Places
+61com.facebook.places
+
+
+#IAB Open Measurement
+282com.iab.omid.library
+
+#Inmobi
+612com.inmobi
+
+
+#ironSource
+533com.ironsource.
+
+
+#Parse
+3com.parse.Parse
+
+
+#Brightcove
+503com.brightcove
+
+#Facebook Analytics
+91com.facebook.appevents
+
+
+#AppLovin (MAX and SparkLabs)
+730com.applovin
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+#Parse
+3com.parse.Parse
+
+
+#ironSource
+443com.ironsource.
+
+
+#Amazon Advertisement
+429com.amazon.device.ads
+
+#AppLovin (MAX and SparkLabs)
+907com.applovin
+
+
+#Facebook Login
+95com.facebook.login
+
+
+#IAB Open Measurement
+136com.iab.omid.library
+
+#Inmobi
+621com.inmobi
+
+#Unity3d Ads
+21com.unity3d.ads
+410com.unity3d.services
+
+#AppLovin (MAX and SparkLabs)
+144com.applovin
+
+#Facebook Ads
+119com.facebook.ads
+
+#Google CrashLytics
+346com.google.firebase.crashlytics
+
+#Unity3d Ads
+16com.unity3d.ads
+349com.unity3d.services
+
+#Google CrashLytics
+385com.google.firebase.crashlytics
+
+#Google Tag Manager
+188com.google.android.gms.tagmanager
+
+
+#Salesforce Marketing Cloud
+319com.salesforce.marketingcloud
+
+#Facebook Ads
+129com.facebook.ads
+
+#Facebook Analytics
+98com.facebook.appevents
+
+
+#AppLovin (MAX and SparkLabs)
+740com.applovin
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+#Parse
+3com.parse.Parse
+
+
+#AnySDK
+1com.anysdk.framework.AdsWrapper
+
+
+#Amazon Advertisement
+186com.amazon.device.ads
+
+#Facebook Ads
+154com.facebook.ads
+
+#Facebook Analytics
+132com.facebook.appevents
+
+
+#Facebook Share
+29com.facebook.share
+
+
+#HelpShift
+453com.helpshift
+
+#IAB Open Measurement
+135com.iab.omid.library
+
+#Inmobi
+612com.inmobi
+
+#Integral Ad Science
+84com.integralads.avid.library
+
+
+#Google CrashLytics
+1com.google.firebase.crashlytics
+
+#AppLovin (MAX and SparkLabs)
+612com.applovin
+
+#Inmobi
+579com.inmobi
+
+#Unity3d Ads
+17com.unity3d.ads
+378com.unity3d.services
+
+#Tencent Stats
+52com.tencent.stat
+
+
+#AppLovin (MAX and SparkLabs)
+730com.applovin
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+#Parse
+3com.parse.Parse
+
+
+#Unity3d Ads
+16com.unity3d.ads
+
+
+#Google Tag Manager
+209com.google.android.gms.tagmanager
+
+
+#AnySDK
+1com.anysdk.framework.AdsWrapper
+
+
+#Amazon Analytics (Amazon insights)
+159com.amazon.insights
+
+
+#AdColony
+307com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+760com.applovin
+
+#IAB Open Measurement
+255com.iab.omid.library
+
+#Inmobi
+621com.inmobi
+
+#KIDOZ
+567com.kidoz.sdk
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+#Facebook Ads
+154com.facebook.ads
+
+
+#Amazon Advertisement
+413com.amazon.device.ads
+
+#AppLovin (MAX and SparkLabs)
+767com.applovin
+
+
+#Facebook Analytics
+74com.facebook.appevents
+
+#Facebook Login
+84com.facebook.login
+
+
+#IAB Open Measurement
+353com.iab.omid.library
+
+#Inmobi
+612com.inmobi
+
+#PubMatic
+319com.pubmatic.sdk
+
+#Unity3d Ads
+21com.unity3d.ads
+410com.unity3d.services
+
+#Yandex Ad
+1089com.yandex.mobile.ads
+
+
+#Facebook Analytics
+65com.facebook.appevents
+
+
+#Facebook Places
+3com.facebook.places
+
+#Facebook Share
+114com.facebook.share
+
+#Google Tag Manager
+30com.google.android.gms.tagmanager
+
+#Amazon
+134com.amazon.insights
+
+
+#AppLovin (MAX and SparkLabs)
+790com.applovin
+
+
+#IAB Open Measurement
+135com.iab.omid.library
+
+#Inmobi
+741com.inmobi
+
+
+#AnySDK
+1com.anysdk.framework.AdsWrapper
+
+
+#Facebook Ads
+122com.facebook.ads
+
+349com.unity3d.services
+
+#AppLovin (MAX and SparkLabs)
+740com.applovin
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+#AdColony
+310com.adcolony
+
+
+#AppLovin (MAX and SparkLabs)
+759com.applovin
+
+#Facebook Ads
+145com.facebook.ads
+
+#Facebook Login
+95com.facebook.login
+
+
+#IAB Open Measurement
+216com.iab.omid.library
+
+#Inneractive
+5com.inneractive.api.ads
+
+#Microsoft Visual Studio App Center Analytics
+45com.microsoft.appcenter.analytics
+
+
+#AdColony
+4com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+163com.applovin
+
+
+#Unity3d Ads
+15com.unity3d.ads
+379com.unity3d.services
+
+#AdColony
+261com.adcolony
+
+#AppLovin (MAX and SparkLabs)
+542com.applovin
+
+#Facebook Ads
+145com.facebook.ads
+
+#IAB Open Measurement
+210com.iab.omid.library
+
+
+#Facebook Ads
+129com.facebook.ads
+
+#Facebook Analytics
+49com.facebook.appevents
+
+#Facebook Login
+74com.facebook.login
+
+#Facebook Share
+216com.facebook.share
+
+
+#Moat
+89com.moat.analytics.mobile.
+
+
+#IAB Open Measurement
+142com.iab.omid.library
+
+#KIDOZ
+563com.kidoz.sdk
+
+#Singular
+107com.singular.sdk
+
+
+#KIDOZ
+569com.kidoz.sdk
+
+
+
+#AdColony
+304com.adcolony
+
+
+#IAB Open Measurement
+142com.iab.omid.library
+
+#ironSource
+747com.ironsource.
+
+
+
+#Tencent Stats
+112com.tencent.wxop.stat
+
+
+#Facebook Ads
+145com.facebook.ads
+
+#Google CrashLytics
+329com.google.firebase.crashlytics
+
+#Unity3d Ads
+172com.unity3d.ads
+
