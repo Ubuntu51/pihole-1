@@ -1,0 +1,62 @@
+
+#These are smartphone trackers that are on my devices and apps
+
+#Instabug
+41com.instabug.bug
+2com.instabug.library.tracking
+
+#Amazon Advertisement
+162com.amazon.device.ads
+
+#Amazon Analytics
+84com.amazonaws.mobileconnectors.amazonmobileanalytics
+
+#Metrics
+51com.codahale.metrics
+
+#Amazon Advertisement
+242com.amazon.device.ads
+
+
+#Amazon Advertisement
+573com.amazon.device.ads
+
+
+#Google Tag Manager
+33com.google.android.gms.tagmanager
+
+#µ?Custom Activity On Crash
+24cat.ereza.customactivityoncrash
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Baidu Location
+51com.baidu.location
+
+#Facebook Login
+54com.facebook.login
+
+#Facebook Places
+2com.facebook.places
+
+#Facebook Share
+79com.facebook.share
+
+#Google Tag Manager
+38com.google.android.gms.tagmanager
+
+#Integral Ad Science
+84com.integralads.avid.library
+
+#Mozilla Telemetry
+38org.mozilla.gecko.telemetry
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Facebook Analytics
+107com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
