@@ -807,3 +807,44 @@ msh.amazon.co.uk
 #Unity3d Ads
 172com.unity3d.ads
 
+#Google Play Install Referrer
+9com.android.installreferrer
+
+#Dynatrace
+6com.dynatrace.android.app
+
+#Google Play Install Referrer
+34com.android.installreferrer
+
+#Google CrashLytics
+359com.google.firebase.crash
+
+#Salesforce Marketing Cloud
+486com.salesforce.marketingcloud
+
+#Cloud Audit Logs
+17com.google.cloud.audit
+
+#Facebook Analytics
+61com.facebook.appevents
+
+#Facebook Share
+187com.facebook.share
+
+#GIPHY Analytics
+19com.giphy.sdk.analytics
+
+#Google CrashLytics
+355com.google.firebase.crash
+
+#Sentry
+263io.sentry
+
+#Google CrashLytics
+385com.google.firebase.crash
+
+#Urbanairship
+943com.urbanairship
+
+#Google CrashLytics
+20com.google.firebase.crash
