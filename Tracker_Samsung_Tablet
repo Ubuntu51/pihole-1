@@ -1,4 +1,5 @@
 #TrackerSamsungTablet
+#These are smartphone trackers that are on my devices and apps
 
 #AdColony
 334com.adcolony
@@ -7,60 +8,20 @@
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#Spiel
-
-
 #AnySDK
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Spiel
 #AppLovin (MAX and SparkLabs)
 702com.applovin
 
-#AppsFlyer
-104com.appsflyer.
-
-#ChartBoost
-166com.chartboost.sdk.
-
-#Criteo
-103com.criteo.
 
 #Facebook Ads
 155com.facebook.ads
@@ -77,47 +38,22 @@
 #Facebook Share
 129com.facebook.share
 
-#Fyber
-982com.fyber.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
 #Google CrashLytics
 379com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #Inmobi
 608com.inmobi
 
-#ironSource
-335com.ironsource.
-
-#Moat
-356com.moat.analytics.mobile.
-
-#Twitter MoPub
-329com.mopub.mobileads.
-144com.mopub.nativeads.
 
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
-
-Spiel
 
 #AdColony
 306com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 866com.applovin
-
-#ChartBoost
-224com.chartboost.sdk.
 
 #Facebook Ads
 153com.facebook.ads
@@ -134,16 +70,9 @@ Spiel
 #Facebook Share
 281com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
 #Google CrashLytics
 359com.google.firebase.crashlytics
 
-#Google Firebase Analytics
-340com.google.android.gms.measurement.
-24com.google.firebase.analytics.
 
 #IAB Open Measurement
 282com.iab.omid.library
@@ -151,42 +80,15 @@ Spiel
 #Inmobi
 612com.inmobi
 
-#ironSource
-521com.ironsource.
-
-#Mintegral
-1332com.mintegral.
-
-#Moat
-180com.moat.analytics.mobile.
-
-#Tapjoy
-613com.tapjoy.
-
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
-
-Spiel
-#AppsFlyer
-91com.appsflyer.
-
-#Google AdMob
-99com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-331com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
 #ironSource
 533com.ironsource.
-
-#Moat
-175com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -195,12 +97,9 @@ Spiel
 #Parse
 3com.parse.Parse
 
-Anwendung 
+
 #Brightcove
 503com.brightcove
-
-#ComScore
-207com.comscore.
 
 #Facebook Analytics
 91com.facebook.appevents
@@ -214,53 +113,14 @@ Anwendung
 #Facebook Share
 281com.facebook.share
 
-#Gigya
-104com.gigya.
-
-#Google AdMob
-773com.google.ads.
-219com.google.android.gms.ads.
-
-#Google CrashLytics
-213com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-307com.google.android.gms.measurement.
-5com.google.firebase.analytics.
-
-#Localytics
-490com.localytics.android.
-
-#Moat
-184com.moat.analytics.mobile.
-
-#Twitter MoPub
-192com.mopub.mobileads.
-148com.mopub.nativeads.
-
-Spiel
 #AppLovin (MAX and SparkLabs)
 730com.applovin
-
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
-
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -269,8 +129,6 @@ Spiel
 #Parse
 3com.parse.Parse
 
-#Spiel Carneval 
-
 #AdColony
 334com.adcolony
 
@@ -278,44 +136,21 @@ Spiel
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
 
 #ironSource
 443com.ironsource.
 
-#Moat
-173com.moat.analytics.mobile.
-
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
-
-
-#Color Me Happy 
-
-#Adjust
-180com.adjust.sdk.
 
 #Amazon Advertisement
 429com.amazon.device.ads
 
 #AppLovin (MAX and SparkLabs)
 907com.applovin
-
-#AppsFlyer
-126com.appsflyer.
 
 #Facebook Ads
 151com.facebook.ads
@@ -329,42 +164,15 @@ Spiel
 #Facebook Share
 283com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-336com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-
 #IAB Open Measurement
 136com.iab.omid.library
 
 #Inmobi
 621com.inmobi
 
-#ironSource
-606com.ironsource.
-
-#Moat
-91com.moat.analytics.mobile.
-
 #Unity3d Ads
 21com.unity3d.ads
 410com.unity3d.services
-
-#Date me 
-#Google AdMob
-34com.google.ads.
-226com.google.android.gms.ads.
-
-#Moat
-86com.moat.analytics.mobile.
-
-#Vungle
-1192com.vungle.publisher.
-
-
-#SpieldieSims 
 
 #AppLovin (MAX and SparkLabs)
 144com.applovin
@@ -384,85 +192,18 @@ Spiel
 #Facebook Share
 281com.facebook.share
 
-#Google AdMob
-131com.google.ads.
-198com.google.android.gms.ads.
-
 #Google CrashLytics
 346com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-325com.google.android.gms.measurement.
-18com.google.firebase.analytics.
-
-#ironSource
-116com.ironsource.
-
-#Moat
-85com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 349com.unity3d.services
 
-#Dreamhouse
-
-
-#Amplitude
-38com.amplitude.
-
-#ChartBoost
-171com.chartboost.sdk.
-
-#Google AdMob
-50com.google.ads.
-408com.google.android.gms.ads.
-
-#Moat
-87com.moat.analytics.mobile.
-
-#GoogleDrive
-
-#Google Analytics
-5com.google.android.gms.analytics.
-
-#Dropbox
-
-#Google AdMob
-3com.google.android.gms.ads.
-
-#Google CrashLytics
-225com.crashlytics.
-10io.fabric.
-
-#Google Firebase Analytics
-13com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#DruckerdienstSamsung
-#Google AdMob
-6com.google.android.gms.ads.
-
-#Google Analytics
-47com.google.android.gms.analytics.
-
 #Google CrashLytics
 385com.google.firebase.crashlytics
 
-#Google Firebase Analytics
-340com.google.android.gms.measurement.
-24com.google.firebase.analytics.
-
 #Google Tag Manager
 192com.google.android.gms.tagmanager
-
-#Evernote
-#Google Analytics
-38com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-8com.google.firebase.analytics.
 
 #Google Tag Manager
 188com.google.android.gms.tagmanager
@@ -472,15 +213,6 @@ Spiel
 
 #Salesforce Marketing Cloud
 319com.salesforce.marketingcloud
-
-#FDroid
-
-#µ?ACRA
-136org.acra.
-
-#Fabulous 
-#AppsFlyer
-104com.appsflyer.
 
 #Facebook Ads
 129com.facebook.ads
@@ -494,56 +226,19 @@ Spiel
 #Facebook Share
 281com.facebook.share
 
-#Google AdMob
-79com.google.ads.
-226com.google.android.gms.ads.
-
-#Google CrashLytics
-225com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-328com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#FairyPrinces
 #AnySDK
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Familienhaus
 #AppLovin (MAX and SparkLabs)
 740com.applovin
 
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
-
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -559,42 +254,16 @@ Spiel
 #AnySDK
 1com.anysdk.framework.AdsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#Flipboard
-#Adjust
-167com.adjust.sdk.
-
 #Amazon Advertisement
 186com.amazon.device.ads
-
-#Button
-567com.usebutton.sdk.
-
-#ComScore
-112com.comscore.
 
 #Facebook Ads
 154com.facebook.ads
@@ -608,16 +277,8 @@ Spiel
 #Facebook Share
 29com.facebook.share
 
-#Google AdMob
-1310com.google.ads.
-241com.google.android.gms.ads.
-
 #Google CrashLytics
 330com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-335com.google.android.gms.measurement.
-17com.google.firebase.analytics.
 
 #HelpShift
 453com.helpshift
@@ -634,35 +295,11 @@ Spiel
 #Microsoft Visual Studio App Center Crashes
 40com.microsoft.appcenter.crashes
 
-#Moat
-192com.moat.analytics.mobile.
-
-#Twitter MoPub
-233com.mopub.mobileads.
-144com.mopub.nativeads.
-
-#SchrittfürSchnitt
-#Google AdMob
-16com.google.ads.
-21com.google.android.gms.ads.
-
 #Google CrashLytics
 1com.google.firebase.crashlytics
 
-#Google Firebase Analytics
-10com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Helicopter
 #AppLovin (MAX and SparkLabs)
 612com.applovin
-
-#Google AdMob
-161com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #Inmobi
 579com.inmobi
@@ -670,56 +307,24 @@ Spiel
 #Integral Ad Science
 84com.integralads.avid.library
 
-#ironSource
-461com.ironsource.
-
-#Moat
-180com.moat.analytics.mobile.
-
 #Unity3d Ads
 17com.unity3d.ads
 378com.unity3d.services
 
-#GalaxyStore
-
-
-#Google AdMob
-36com.google.ads.
-261com.google.android.gms.ads.
-
-#Google Firebase Analytics
-184com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#Galerie
-Tencent Stats
-
 #Tencent Stats
 52com.tencent.stat
 
-#Geschäfte
 
 #AppLovin (MAX and SparkLabs)
 730com.applovin
 
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
 
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -728,8 +333,6 @@ Tencent Stats
 #Parse
 3com.parse.Parse
 
-#Getorignizer
-
 #AdColony
 334com.adcolony
 
@@ -737,112 +340,28 @@ Tencent Stats
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
-
-#Gmail
-
-#Google Analytics
-1com.google.android.gms.analytics.
-
-#GoogleNews
-#Google AdMob
-1223com.google.ads.
-774com.google.android.gms.ads.
-
-#Google Analytics
-107com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-402com.google.android.gms.measurement.
-9com.google.firebase.analytics.
-
-#GoogleBücher
-
-#Google Analytics
-1com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-1com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#GoogleMusik
-#Google AdMob
-326com.google.ads.
-445com.google.android.gms.ads.
-
-#Google Analytics
-153com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-39com.google.android.gms.measurement.
-1com.google.firebase.analytics.
 
 #Google Tag Manager
 209com.google.android.gms.tagmanager
 
-#GoogleSpiele
+#AdColony
+334com.adcolony
 
-#Google Firebase Analytics
-3com.google.android.gms.measurement.
-2com.google.firebase.analytics.
+#AnySDK
+1com.anysdk.framework.AdsWrapper
 
-#GogglePlaystore
+#IAB Open Measurement
+68com.iab.omid.library
 
-
-#Google AdMob
-4com.google.ads.
-25com.google.android.gms.ads.
-
-#Google Firebase Analytics
-14com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#GooglePlaydienste
-#Google AdMob
-14com.google.ads.
-767com.google.android.gms.ads.
-
-#Google Analytics
-14com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-23com.google.android.gms.measurement.
-
-#Google
-
-#Google AdMob
-1193com.google.ads.
-
-#Google Analytics
-94com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-394com.google.android.gms.measurement.
-8com.google.firebase.analytics.
-
-#SpielHomeStory
+#Unity3d Ads
+16com.unity3d.ads
+358com.unity3d.services
 
 #AdColony
 334com.adcolony
@@ -850,77 +369,20 @@ Tencent Stats
 #AnySDK
 1com.anysdk.framework.AdsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
 #Google AdMob
 36com.google.ads.
 236com.google.android.gms.ads.
 
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
-
-#SpielHausCleaning
-
-#AdColony
-334com.adcolony
-
-#AnySDK
-1com.anysdk.framework.AdsWrapper
-
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#IAB Open Measurement
-68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
-
-#Unity3d Ads
-16com.unity3d.ads
-358com.unity3d.services
-
-#HRSHotel
-#Adjust
-28com.adjust.sdk.
 
 #Amazon Analytics (Amazon insights)
 159com.amazon.insights
-
-#HockeyApp
-18net.hockeyapp.
-
-#Omniture
-6com.adobe.adms.measurement.
-
-#SpielIceCereamSmoothy
-
 
 #AdColony
 334com.adcolony
@@ -929,31 +391,13 @@ Tencent Stats
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
-
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
-
-#SpielKidsSupermarkt
 
 #AdColony
 307com.adcolony
@@ -961,176 +405,61 @@ Tencent Stats
 #AppLovin (MAX and SparkLabs)
 760com.applovin
 
-#ChartBoost
-260com.chartboost.sdk.
-
-#Google AdMob
-1282com.google.ads.
-252com.google.android.gms.ads.
-
-#Google Firebase Analytics
-331com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 255com.iab.omid.library
 
 #Inmobi
 621com.inmobi
 
-#ironSource
-567com.ironsource.
-
 #KIDOZ
 567com.kidoz.sdk
-
-#Moat
-266com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
 
-#SpielKosmeticSpaStudio
+
 #AppLovin (MAX and SparkLabs)
 730com.applovin
-
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
 
-#Moat
-89com.moat.analytics.mobile.
-
-#Unity3d Ads
-17com.unity3d.ads
-379com.unity3d.services
-
 #Parse
 3com.parse.Parse
-
-#SpielLittleSpaPoliceMan
 
 
 #AdColony
 334com.adcolony
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#LittlePandaRestourant
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#LittlePandaBakeShop
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#LittlePander
 #AnySDK
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#SpielMakemore
-
 #AppLovin (MAX and SparkLabs)
 730com.applovin
-
-#AppsFlyer
-156com.appsflyer.
 
 #Facebook Ads
 154com.facebook.ads
 
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-654com.ironsource.
-
-#MalennachZahlen
 
 #Amazon Advertisement
 413com.amazon.device.ads
 
 #AppLovin (MAX and SparkLabs)
 767com.applovin
-
-#AppMetrica
-1259com.yandex.metrica.
-
-#AppsFlyer
-66com.appsflyer.
-
-#ChartBoost
-236com.chartboost.sdk.
 
 #Facebook Ads
 154com.facebook.ads
@@ -1144,19 +473,8 @@ Tencent Stats
 #Facebook Share
 30com.facebook.share
 
-#Fyber
-1028com.fyber.
-
-#Google AdMob
-327com.google.ads.
-252com.google.android.gms.ads.
-
 #Google CrashLytics
 379com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-343com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 353com.iab.omid.library
@@ -1164,21 +482,8 @@ Tencent Stats
 #Inmobi
 612com.inmobi
 
-#ironSource
-392com.ironsource.
-
-#Moat
-180com.moat.analytics.mobile.
-
 #PubMatic
 319com.pubmatic.sdk
-
-#Tapjoy
-614com.tapjoy.
-
-#Twitter MoPub
-630com.mopub.mobileads.
-159com.mopub.nativeads.
 
 #Unity3d Ads
 21com.unity3d.ads
@@ -1187,38 +492,14 @@ Tencent Stats
 #Yandex Ad
 1089com.yandex.mobile.ads
 
-#Maps
-
-#Google Firebase Analytics
-1com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#SpielMuseum
-
-#Parse
-Unity3d Ads
-
 #AppLovin (MAX and SparkLabs)
 730com.applovin
-
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
-
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -1226,16 +507,6 @@ Unity3d Ads
 
 #Parse
 3com.parse.Parse
-
-#NYT
-#Amazon Advertisement
-63com.amazon.device.ads
-
-#AppsFlyer
-104com.appsflyer.
-
-#ComScore
-207com.comscore.
 
 #Facebook Analytics
 65com.facebook.appevents
@@ -1249,49 +520,10 @@ Unity3d Ads
 #Facebook Share
 114com.facebook.share
 
-#Google AdMob
-100com.google.ads.
-153com.google.android.gms.ads.
-
-#Google Analytics
-30com.google.android.gms.analytics.
-
-#Google CrashLytics
-213com.crashlytics.
-132io.fabric.
-
-#Google Firebase Analytics
-315com.google.android.gms.measurement.
-5com.google.firebase.analytics.
-
 #Google Tag Manager
 30com.google.android.gms.tagmanager
 
-#Localytics
-490com.localytics.android.
 
-#Microsoft Visual Studio App Center Analytics
-16com.microsoft.appcenter.analytics
-
-#Microsoft Visual Studio App Center Crashes
-21com.microsoft.appcenter.crashes
-
-#°AWS Kinesis
-18com.amazonaws.metrics.
-
-#SpielPandaSportGame
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#SpielPandaCafe
 #AdColony
 334com.adcolony
 
@@ -1299,65 +531,26 @@ Unity3d Ads
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#PeelSmartRemote
-
-#Amazon Analytics (Amazon insights)
+#Amazon
 134com.amazon.insights
-
-#Google AdMob
-3com.google.android.gms.ads.
-
-#Google Analytics
-90com.google.android.gms.analytics.
 
 #Google Tag Manager
 201com.google.android.gms.tagmanager
 
-#SpielPepiHouse
-
-#AerServ
-116com.aerserv.sdk.
-
 #AppLovin (MAX and SparkLabs)
 790com.applovin
-
-#ChartBoost
-255com.chartboost.sdk.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
 
 #Google CrashLytics
 362com.google.firebase.crashlytics
 
-#Google Firebase Analytics
-340com.google.android.gms.measurement.
-24com.google.firebase.analytics.
 
 #IAB Open Measurement
 135com.iab.omid.library
@@ -1365,16 +558,8 @@ Unity3d Ads
 #Inmobi
 741com.inmobi
 
-#ironSource
-581com.ironsource.
-
 #KIDOZ
 567com.kidoz.sdk
-
-#Moat
-177com.moat.analytics.mobile.
-
-#PetHouseDesign
 
 #AdColony
 334com.adcolony
@@ -1382,83 +567,28 @@ Unity3d Ads
 #AnySDK
 1com.anysdk.framework.AdsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#SpielPinkBabyPhone
-
 #Facebook Ads
 122com.facebook.ads
-
-#Flurry
-368com.flurry.
-
-#Google AdMob
-51com.google.ads.
-265com.google.android.gms.ads.
-
-#Google CrashLytics
-222com.crashlytics.
-188io.fabric.
-
-#Google Firebase Analytics
-200com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#ironSource
-443com.ironsource.
-
-#Moat
-85com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 349com.unity3d.services
 
-#Polizeiwache
-
 #AppLovin (MAX and SparkLabs)
 740com.applovin
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
-
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -1467,7 +597,6 @@ Unity3d Ads
 #Parse
 3com.parse.Parse
 
-#SpielPrincessMakup
 
 #AdColony
 334com.adcolony
@@ -1476,57 +605,25 @@ Unity3d Ads
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#SpielPrincessPhone
-
-
-#Google AdMob
-57com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-315com.google.android.gms.measurement.
-11com.google.firebase.analytics.
-
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
 
-#SpielRepairMaster3D
+
 #AdColony
 310com.adcolony
 
-#Adjust
-171com.adjust.sdk.
 
 #AppLovin (MAX and SparkLabs)
 759com.applovin
-
-#ChartBoost
-260com.chartboost.sdk.
 
 #Facebook Ads
 145com.facebook.ads
@@ -1540,24 +637,11 @@ Unity3d Ads
 #Facebook Share
 283com.facebook.share
 
-#Fyber
-1030com.fyber.
-
-#Google AdMob
-36com.google.ads.
-336com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-
 #IAB Open Measurement
 216com.iab.omid.library
 
 #Inneractive
 5com.inneractive.api.ads
-
-#ironSource
-606com.ironsource.
 
 #Microsoft Visual Studio App Center Analytics
 45com.microsoft.appcenter.analytics
@@ -1565,63 +649,27 @@ Unity3d Ads
 #Microsoft Visual Studio App Center Crashes
 53com.microsoft.appcenter.crashes
 
-#Moat
-89com.moat.analytics.mobile.
-
-#Tapjoy
-611com.tapjoy.
-
-#Twitter MoPub
-660com.mopub.mobileads.
-175com.mopub.nativeads.
-
 #Unity3d Ads
 21com.unity3d.ads
 410com.unity3d.services
 
-#SpielRobberyBob2
+
 #AdColony
 4com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 163com.applovin
 
-#ChartBoost
-161com.chartboost.sdk.
-
 #Facebook Ads
 155com.facebook.ads
 
-#Google AdMob
-19com.google.ads.
-201com.google.android.gms.ads.
-
-#Google CrashLytics
-213com.crashlytics.
-10io.fabric.
-
-#Google Firebase Analytics
-91com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
 #Inmobi
 581com.inmobi
-
-#ironSource
-158com.ironsource.
-
-#Moat
-177com.moat.analytics.mobile.
-
-#Tapjoy
-604com.tapjoy.
 
 #Unity3d Ads
 15com.unity3d.ads
 379com.unity3d.services
 
-
-#Robberybob
 #AdColony
 261com.adcolony
 
@@ -1631,35 +679,16 @@ Unity3d Ads
 #Facebook Ads
 145com.facebook.ads
 
-#Google AdMob
-31com.google.ads.
-252com.google.android.gms.ads.
-
-#Google CrashLytics
-213com.crashlytics.
-61io.fabric.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-5com.google.firebase.analytics.
-
 #IAB Open Measurement
 210com.iab.omid.library
 
 #Inmobi
 621com.inmobi
 
-#ironSource
-436com.ironsource.
-
-#Moat
-180com.moat.analytics.mobile.
-
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
 
-#SpielSafty
 #AdColony
 334com.adcolony
 
@@ -1667,34 +696,12 @@ Unity3d Ads
 3com.anysdk.framework.AdsWrapper
 1com.anysdk.framework.AnalyticsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-236com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
-
-#SalysSalon
-
-#AppsFlyer
-94com.appsflyer.
 
 #Facebook Ads
 129com.facebook.ads
@@ -1708,60 +715,14 @@ Unity3d Ads
 #Facebook Share
 216com.facebook.share
 
-#Google AdMob
-79com.google.ads.
-226com.google.android.gms.ads.
-
-#Google CrashLytics
-225com.crashlytics.
-191io.fabric.
-
-#Google Firebase Analytics
-328com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#SamsungMusik
-#Google AdMob
-32com.google.ads.
-158com.google.android.gms.ads.
-
-#Google Firebase Analytics
-312com.google.android.gms.measurement.
-9com.google.firebase.analytics.
-
-#SchoolBus
-#Bugly
-143com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-336com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#SpielSchönheitswettbewerb
-
 
 #AppLovin (MAX and SparkLabs)
 730com.applovin
 
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
-#KIDOZ
-569com.kidoz.sdk
 
 #Moat
 89com.moat.analytics.mobile.
@@ -1773,7 +734,6 @@ Unity3d Ads
 #Parse
 3com.parse.Parse
 
-#SpielSummerCrash
 
 #AdColony
 307com.adcolony
@@ -1781,28 +741,11 @@ Unity3d Ads
 #AppLovin (MAX and SparkLabs)
 760com.applovin
 
-#ChartBoost
-176com.chartboost.sdk.
-
-#Google AdMob
-36com.google.ads.
-252com.google.android.gms.ads.
-
-#Google Firebase Analytics
-338com.google.android.gms.measurement.
-24com.google.firebase.analytics.
-
 #IAB Open Measurement
 142com.iab.omid.library
 
-#ironSource
-695com.ironsource.
-
 #KIDOZ
 563com.kidoz.sdk
-
-#Moat
-262com.moat.analytics.mobile.
 
 #Singular
 107com.singular.sdk
@@ -1811,32 +754,16 @@ Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
 
-#SpielTanzschule
-Moat
-#Parse
-Unity3d Ads
-
 #AppLovin (MAX and SparkLabs)
 730com.applovin
 
-#Google AdMob
-36com.google.ads.
-246com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 68com.iab.omid.library
 
-#ironSource
-673com.ironsource.
-
 #KIDOZ
 569com.kidoz.sdk
 
-#Moat
-89com.moat.analytics.mobile.
 
 #Unity3d Ads
 17com.unity3d.ads
@@ -1845,22 +772,13 @@ Unity3d Ads
 #Parse
 3com.parse.Parse
 
-#SpielTaxi2
+
 #AdColony
 304com.adcolony
 
 #AppLovin (MAX and SparkLabs)
 730com.applovin
 
-#Fyber
-984com.fyber.
-
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #IAB Open Measurement
 142com.iab.omid.library
@@ -1868,26 +786,10 @@ Unity3d Ads
 #ironSource
 747com.ironsource.
 
-#Moat
-89com.moat.analytics.mobile.
-
-#Tapjoy
-612com.tapjoy.
 
 #Unity3d Ads
 17com.unity3d.ads
 379com.unity3d.services
-
-#SpielTixiWorld
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Firebase Analytics
-344com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
-#SpielDownLife
 
 #AdColony
 334com.adcolony
@@ -1895,25 +797,8 @@ Unity3d Ads
 #AnySDK
 1com.anysdk.framework.AdsWrapper
 
-#Bugly
-139com.tencent.bugly.
-
-#Google AdMob
-36com.google.ads.
-202com.google.android.gms.ads.
-
-#Google Firebase Analytics
-199com.google.android.gms.measurement.
-23com.google.firebase.analytics.
-
 #IAB Open Measurement
 68com.iab.omid.library
-
-#ironSource
-443com.ironsource.
-
-#Moat
-173com.moat.analytics.mobile.
 
 #Tencent Stats
 112com.tencent.wxop.stat
@@ -1922,63 +807,15 @@ Unity3d Ads
 16com.unity3d.ads
 358com.unity3d.services
 
-#Twitter
-#Google AdMob
-13com.google.ads.
-5com.google.android.gms.ads.
-
-#Google CrashLytics
-155com.crashlytics.
-
-
-#VerlierenSieIhrBauchfett
 
 #Facebook Ads
 145com.facebook.ads
 
-#Google AdMob
-128com.google.ads.
-214com.google.android.gms.ads.
-
 #Google CrashLytics
 329com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-325com.google.android.gms.measurement.
-18com.google.firebase.analytics.
-
-#Moat
-89com.moat.analytics.mobile.
-
-#myTarget
-628com.my.target.
-
-#WebexMeet
-
-#Amplitude
-1com.amplitude.
-
-#Google CrashLytics
-10com.crashlytics.
-209com.google.firebase.crashlytics
-
-#Google Firebase Analytics
-18com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#SpielYasaPetHotel
-Unity3d Ads
 
 #Unity3d Ads
 172com.unity3d.ads
 
-#Youtube
-#Google AdMob
-3com.google.ads.
-3com.google.android.gms.ads.
-
-#Google Firebase Analytics
-7com.google.android.gms.measurement.
-2com.google.firebase.analytics.
 
 
