@@ -1,133 +1,37 @@
-Tracker Tablet
+#Tracker Tablet
+#These are smartphone trackers that are on my devices and apps
 
-#Dateimanager+ - - 
-#Google Ads
-31com.google.android.gms.ads.mediation.
-
-#Google Firebase Analytics
-11com.google.android.gms.measurement.
-8com.google.firebase.analytics.
 
 #µ?Google-Ads Consent
 17com.google.ads.consent
 
-#Dateimanager Huawei - - 
+ 
 #Baidu Location
 174com.baidu.location
 
 #Baidu Map
 334com.baidu.mapapi
 
-#GoogleDrive - - 
-#Google Analytics
-5com.google.android.gms.analytics.
-
-#Mozilla Firefox - - 
-#Adjust
-41com.adjust.sdk.
-
-#LeanPlum
-262com.leanplum.
-
 #Mozilla Telemetry
 38org.mozilla.gecko.telemetry
-
-#Google Foto - - 
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Google Galarie - - 
+ 
 #Google Tag Manager
 65com.google.android.gms.tagmanager
 
-
-#Google Mail - - 
-#Google Analytics
-1com.google.android.gms.analytics.
-
-#Google Searchbox - - 
-#Google Analytics
-#Google Firebase Analytics
-
-#Google Analytics
-94com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-395com.google.android.gms.measurement.
-8com.google.firebase.analytics.
-
-#Google News - - 
-
-#Google Ads
-58com.google.android.gms.ads.mediation.
-
-#Google Analytics
-112com.google.android.gms.analytics.
-
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-393com.google.android.gms.measurement.
-9com.google.firebase.analytics.
-
-#Google Bücher - - - 
-#Google Analytics
-1com.google.android.gms.analytics.
-
-#Google Firebase Analytics
-16com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#Google Play Filme - - 
-
-#Google Firebase Analytics
-1com.google.firebase.analytics.
-
-
-#Google Play Musik - - 
-#Google Ads
-26com.google.android.gms.ads.mediation.
-
-#Google Analytics
-111com.google.android.gms.analytics.
 
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
 
 #Google Tag Manager
-191com.google.android.gms.tagmanager
+191com.google.android.gms.tagmanage
 
-
-#Google Play Spiele - - 
-#Google Firebase Analytics
-3com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#Google Play Store - - 
-
-#Google Ads
-1com.google.android.gms.ads.mediation.
-
-#Google Firebase Analytics
-16com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Supermarkt tycoon - - 
 #AdColony
 334com.adcolony
 
 #AppLovin
 642com.applovin
-
-#AppsFlyer
-98com.appsflyer.
-
-#ChartBoost
-161com.chartboost.sdk.
 
 #Facebook Ads
 155com.facebook.ads
@@ -141,62 +45,26 @@ Tracker Tablet
 #Facebook Share
 197com.facebook.share
 
-#Fyber
-539com.fyber.
-
 #GameAnalytics
 76com.gameanalytics.sdk
 
-#Google Ads
-55com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-208com.crashlytics.
-214io.fabric.
 
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
 
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-
-#HyprMX
-412com.hyprmx.android.sdk.
-
 #Inmobi
 581com.inmobi
 
-#ironSource
-632com.ironsource.
 
-#Mintegral
-707com.mintegral.
-
-#Moat
-265com.moat.analytics.mobile.
-
-#Tapjoy
-604com.tapjoy.
-
-#Unity3d Ads
-15com.unity3d.ads
-379com.unity3d.services
-
-
-#Phone Service Huawei - - 
 #Baidu Location
 96com.baidu.location
 
 #Baidu Map
 356com.baidu.mapapi
 
-#Google Analytics
-47com.google.android.gms.analytics.
-
 #Google Tag Manager
 196com.google.android.gms.tagmanager
 
-#Huawei Video - - 
 #Facebook Analytics
 107com.facebook.appevents
 
@@ -206,12 +74,6 @@ Tracker Tablet
 #Facebook Share
 197com.facebook.share
 
-#Google Ads
-29com.google.android.gms.ads.mediation.
-
-#Google Analytics
-47com.google.android.gms.analytics.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
 
@@ -219,68 +81,20 @@ Tracker Tablet
 196com.google.android.gms.tagmanager
 
 
-#Google Maps - -
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-#Google RAR Programm - - 
-55com.google.android.gms.ads.mediation.
-
 #Google DoubleClick
 10com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
 
 #Google-Ads Consent
 17com.google.ads.consent
 
-
-#Google RaspController - - 
-
-#Google Ads
-43com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-2com.crashlytics.
-10io.fabric.
-
 #Google DoubleClick
 4com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-314com.google.android.gms.measurement.
-10com.google.firebase.analytics.
-
-# Google Read Programm - - 
 
 #Facebook Ads
 691com.facebook.ads
 
-#Flurry
-1011com.flurry.
-
-#Google Ads
-32com.google.android.gms.ads.mediation.
-
-#Google CrashLytics
-212com.crashlytics.
-149io.fabric.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-9com.google.firebase.analytics.
-
-#Google SwiftKey Tastatur - - 
-#Adjust
-112com.adjust.sdk.
-
-#Google Analytics
-5com.google.android.gms.analytics.
 
 #Google Tag Manager
 3com.google.android.gms.tagmanager
@@ -288,47 +102,11 @@ Tracker Tablet
 #Microsoft Appcenter Crashes
 9com.microsoft.appcenter.crashes
 
-
-#Google TV Programm - - 
-
-#Google Ads
-32com.google.android.gms.ads.mediation.
-
-#Google DoubleClick
-8com.google.android.gms.ads.doubleclick
-
-#INFOnline
-135de.infonline.
-
-#Google Vu+Player - -
-#Google Ads
-18com.google.android.gms.ads.mediation.
-
-#Google Analytics
-90com.google.android.gms.analytics.
-
 #Google DoubleClick
 8com.google.android.gms.ads.doubleclick
 
 #Google Tag Manager
 201com.google.android.gms.tagmanager
-
-#ACRA
-56org.acra.
-
-#Google YouTube
-#Google Firebase Analytics
-9com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
-
-#IVB_Scout
-#Google AdMob
-6com.google.android.gms.ads.
-
-#Google Firebase Analytics
-330com.google.android.gms.measurement.
-23com.google.firebase.analytics.
 
 #TVDirekt
 #Amazon Advertisement
@@ -346,20 +124,9 @@ Tracker Tablet
 #Facebook Share
 281com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-250com.google.android.gms.ads.
-
-#Google Analytics
-33com.google.android.apps.analytics.
-47com.google.android.gms.analytics.
-
 #Google CrashLytics
 287com.google.firebase.crash
 
-#Google Firebase Analytics
-317com.google.android.gms.measurement.
-26com.google.firebase.analytics.
 
 #Google Tag Manager
 192com.google.android.gms.tagmanager
@@ -370,34 +137,12 @@ Tracker Tablet
 #IAB Open Measurement
 158com.iab.omid.library
 
-#INFOnline
-135de.infonline.
-
-#MAdvertise
-571com.mngads.
-
-#OutBrain
-121com.outbrain.
-
-#Smart
-553com.smartadserver.
-
-
-#CSRRace2
-#Adjust
-187com.adjust.sdk.
-
-#Apsalar
-37com.apsalar.sdk.
-
 #Apteligent by VMWare (formerly Crittercism)
 5com.crittercism.app.Crittercism
 
 #Braze (formerly Appboy)
 398com.appboy
 
-#Bugsnag
-118com.bugsnag.
 
 #Facebook Ads
 151com.facebook.ads
@@ -411,38 +156,15 @@ Tracker Tablet
 #Facebook Share
 282com.facebook.share
 
-#Google AdMob
-36com.google.ads.
-343com.google.android.gms.ads.
-
-#Google Firebase Analytics
-12com.google.android.gms.measurement.
-5com.google.firebase.analytics.
-
 #HelpShift
 1409com.helpshift
 
 #IAB Open Measurement
 75com.iab.omid.library
 
-#LeanPlum
-414com.leanplum.
-
-#Moat
-89com.moat.analytics.mobile.
-
-#Tapjoy
-623com.tapjoy.
-
-#Twitter MoPub
-1067com.mopub.
-
 #Unity3d Ads
 24com.unity3d.ads
 414com.unity3d.services
-
-#Vungle
-424com.vungle.warren.
 
 #Google Play Install Referrer
 13com.android.installreferrer
