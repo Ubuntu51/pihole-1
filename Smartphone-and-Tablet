@@ -890,3 +890,76 @@ msh.amazon.co.uk
 #Huawei Mobile Services (HMS) Core
 184com.huawei.hms.analytics
 
+#Facebook Analytics
+143com.facebook.appevents
+
+#HelpShift
+1335com.helpshift
+
+
+#Braze (formerly Appboy)
+401com.appboy
+
+#HelpShift
+1355com.helpshift
+
+
+#Pangle
+956com.bytedance.sdk.openadsdk
+
+#AutoNavi / Amap
+379com.amap.api
+
+
+#AutoNavi / Amap
+367com.amap.api
+
+#Adobe Experience Cloud
+511com.adobe.marketing.mobile
+
+
+#Google Tag Manager
+76com.google.android.gms.tagmanager
+
+
+#Microsoft Visual Studio App Center Analytics
+22com.microsoft.appcenter.analytics
+
+
+#Microsoft Visual Studio App Center Crashes
+41com.microsoft.appcenter.crashes
+
+
+#Google Play Install Referrer
+12com.android.installreferrer
+
+#Google CrashLytics
+379com.google.firebase.crash
+
+
+#AppLovin (MAX and SparkLabs)
+802com.applovin
+
+#Facebook Ads
+154com.facebook.ads
+
+
+#Facebook Analytics
+143com.facebook.appevents
+
+#Umeng Analytics
+213com.umeng.analytics
+
+
+#Google CrashLytics
+379com.google.firebase.crash
+
+#Facebook Analytics
+1com.facebook.CampaignTrackingReceiver
+
+#Facebook Login
+33com.facebook.login
+
+#Facebook Share
+23com.facebook.share
+
