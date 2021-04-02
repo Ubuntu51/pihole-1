@@ -885,7 +885,7 @@ msh.amazon.co.uk
 
 #Sentry
 3io.sentry
-
+238io.sentry
 
 #Huawei Mobile Services (HMS) Core
 184com.huawei.hms.analytics
@@ -935,14 +935,14 @@ msh.amazon.co.uk
 
 #Google CrashLytics
 379com.google.firebase.crash
-
+302com.google.firebase.crash
 
 #AppLovin (MAX and SparkLabs)
 802com.applovin
 
 #Facebook Ads
 154com.facebook.ads
-
+100com.facebook.appevents
 
 #Facebook Analytics
 143com.facebook.appevents
@@ -953,6 +953,7 @@ msh.amazon.co.uk
 
 #Google CrashLytics
 379com.google.firebase.crash
+374com.google.firebase.crash
 
 #Facebook Analytics
 1com.facebook.CampaignTrackingReceiver
@@ -962,4 +963,64 @@ msh.amazon.co.uk
 
 #Facebook Share
 23com.facebook.share
+
+#Tecent Stats
+2com.tencent.wxop.stat
+
+#Applovin
+1095com.applovin
+
+#IAB Open Measur
+343com.iab.omid.library
+30com.iab.omid.library
+142com.iab.omid.library
+
+#Facebook Analytics
+101com.appevents.facebook
+
+#Facebook Login
+1com.facebook.login
+
+#Google CrashLytics
+338com.google.firebase.crash
+
+#Umeng Analytics
+212com.umeng.analytics
+
+#AppLovin (MAX and SparkLabs)
+764com.applovin
+
+#GameAnalytics
+124com.gameanalytics.sdk
+
+#Google CrashLytics
+353com.google.firebase.crash
+
+#IAB Open
+438com.iab.omid.library
+
+#Inmobi
+649com.inmobi
+
+#Verzion Asd
+811com.verzion.ads
+
+#Yandex Ad
+1297com.yandex.mobile.ads
+
+#Applovin
+999com.applovin
+
+#Pangle
+954com.bytedance.sdk.openadsdk
+
+#Umeng Analytics
+212com.umeng.analytics
+207com.umeng.analytics
+
+#Mail Ru
+16ru.mail.mrgservice.analytics
+
+#Braze
+330com.appboy
 
