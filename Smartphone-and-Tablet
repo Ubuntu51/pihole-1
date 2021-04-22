@@ -1030,3 +1030,14 @@ msh.amazon.co.uk
 #GIPHY Analytics
 45com.giphy.sdk.analytics
 
+#Facebook Analytics
+76com.facebook.appevents
+1com.facebook.CampaignTrackingReceiver
+
+#Facebook Login
+81com.facebook.login
+
+
+#Google Play Install Referrer
+11com.android.installreferrer
+
