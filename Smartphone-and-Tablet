@@ -1045,3 +1045,14 @@ msh.amazon.co.uk
 #Facebook Share
 271com.facebook.share
 
+
+#Google CrashLytics
+1com.google.firebase.crash
+
+#Google Tag Manager
+5com.google.android.gms.tagmanager
+
+#Amazon Advertisement
+572com.amazon.device.ads
+
+
