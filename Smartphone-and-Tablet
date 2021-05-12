@@ -1059,3 +1059,8 @@ msh.amazon.co.uk
 #Google CrashLytics
 22com.google.firebase.crash
 
+#Amazon Advertisement
+541com.amazon.device.ads
+
+#Sentry
+287io.sentry
