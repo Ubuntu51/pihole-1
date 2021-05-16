@@ -1064,3 +1064,12 @@ msh.amazon.co.uk
 
 #Sentry
 287io.sentry
+
+#Google CrashLytics
+6com.google.firebase.crash
+
+#IAB Open Measurement
+291com.iab.omid.library
+
+#Verizon Ads
+811com.verizon.ads
