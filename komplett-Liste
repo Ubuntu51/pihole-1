@@ -1,0 +1,612 @@
+#Komplett-TrackerListe
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+122com.huawei.updatesdk
+
+#Amazon Advertisement
+572com.amazon.device.ads
+
+#Google AdMob
+34com.google.ads
+234com.google.android.gms.ads
+
+#Google Firebase Analytics
+173com.google.android.gms.measurement
+8com.google.firebase.analytics
+
+#Google Play Install Referrer
+9com.android.installreferrer
+
+#AWS Kinesis
+26com.amazonaws.metrics
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+19com.huawei.agconnect
+137com.huawei.updatesdk
+
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+2com.huawei.agconnect
+35com.huawei.hms.support.api.push
+133com.huawei.updatesdk
+
+#AppLovin (MAX and SparkLabs)
+13com.applovin
+
+#Appnext
+619com.appnext
+
+#Facebook Login
+55com.facebook.login
+
+#Facebook Share
+30com.facebook.share
+
+#Flurry
+377com.flurry
+
+#Fyber
+582com.fyber
+
+#Google AdMob
+30com.google.ads.
+198com.google.android.gms.ads
+
+#Google Firebase Analytics
+11com.google.android.gms.measurement
+
+#Inmobi
+583com.inmobi
+
+#Integral Ad Science
+168com.integralads.avid.library
+
+#Moat
+260com.moat.analytics.mobile
+
+#Smaato
+499com.smaato
+
+#Twitter MoPub
+1033com.mopub
+
+#Unity3d Ads
+16com.unity3d.ads
+336com.unity3d.services
+
+#Vungle
+170com.vungle.warren
+
+#Google Play Install Referrer
+8com.android.installreferrer
+
+#Sentry
+25io.sentry
+
+#Google Firebase Analytics
+#Microsoft Visual Studio App Center 
+
+#Google Firebase Analytics
+4com.google.firebase.analytics
+
+#Microsoft Visual Studio App Center 
+53com.microsoft.appcenter.crashes
+
+#Google AdMob
+6com.google.android.gms.ads
+
+#Huawei Mobile Services (HMS) Core
+35com.huawei.agconnect
+8com.huawei.hms.support.api.push
+136com.huawei.updatesdk
+
+#Dynatrace
+6com.dynatrace.android.app
+
+#Huawei Mobile Services (HMS) Core
+2com.huawei.agconnect
+133com.huawei.updatesdk
+
+#Google Firebase Analytics
+#Huawei Mobile Services (HMS) Core
+
+#Google Firebase Analytics
+2com.google.firebase.analytics
+
+#Huawei Mobile Services (HMS) Core
+10com.huawei.agconnect
+10com.huawei.hms.support.api.push
+137com.huawei.updatesdk
+
+#Custom Activity On Crash
+24cat.ereza.customactivityoncrash
+
+#Google AdMob
+#Google Firebase Analytics
+
+#Google AdMob
+17com.google.ads
+
+#Google Firebase Analytics
+320com.google.android.gms.measurement
+10com.google.firebase.analytics
+
+#ACRA
+
+#ACRA
+163org.acra
+
+#Baidu Location
+#Huawei Mobile Services (HMS) Core
+
+#Baidu Location
+51com.baidu.location
+
+#Huawei Mobile Services (HMS) Core
+4com.huawei.agconnect
+8com.huawei.hms.support.api.push
+145com.huawei.updatesdk
+
+
+#Huawei Mobile Services (HMS) Core
+205com.huawei.agconnect
+10com.huawei.hms.support.api.push
+136com.huawei.updatesdk
+
+
+#Google Play Install Referrer
+#Google Firebase Analytics
+#Microsoft Visual Studio App Center #Crashes
+
+#Adjust
+171com.adjust.sdk.
+
+#Google Firebase Analytics
+3com.google.firebase.analytics.
+
+#Microsoft Visual Studio App Center Crashes
+9com.microsoft.appcenter.crashes
+
+#Google Play Install Referrer
+34com.android.installreferrer
+
+#Bugsnag
+
+#Bugsnag
+169com.bugsnag
+
+#AutoNavi / Amap
+#Huawei Mobile Services (HMS) Core
+
+#AutoNavi / Amap
+1283com.amap.api
+
+#Huawei Mobile Services (HMS) Core
+21com.huawei.agconnect
+122com.huawei.updatesdk
+
+
+*AdColony
+310com.adcolony.
+23com.jirbo.adcolony.
+
+*Facebook Ads
+151com.facebook.ads
+
+*Google AdMob
+1453com.google.ads.
+336com.google.android.gms.ads.
+
+*Google CrashLytics
+355com.google.firebase.crash
+
+*Google Firebase Analytics
+332com.google.android.gms.measurement
+27com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#IAB Open Measurement
+291com.iab.omid.library
+
+#Inmobi
+621com.inmobi
+
+#Moat
+91com.moat.analytics.mobile
+
+#Twitter MoPub
+854com.mopub
+
+#Verizon Ads
+811com.verizon.ads
+
+#Google Cloud Audit Logs
+17com.google.cloud.audit
+
+
+#Google Firebase Analytics
+
+#Google Firebase Analytics
+3com.google.firebase.analytics
+
+#Facebook Analytics
+107com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google AdMob
+36com.google.ads
+261com.google.android.gms.ads
+
+#Google Analytics
+47com.google.android.gms.analytics
+
+#Huawei Mobile Services (HMS) Core
+176com.huawei.agconnect
+8com.huawei.hms.support.api.push
+145com.huawei.updatesdk
+
+
+#Amazon Advertisement
+541com.amazon.device.ads
+
+#Google AdMob
+34com.google.ads
+151com.google.android.gms.ads
+
+#Google CrashLytics
+338com.google.firebase.crash
+
+#Google Firebase Analytics
+1com.google.android.gms.measurement
+3com.google.firebase.analytics
+
+#Localytics
+24com.localytics.android
+
+#Google Play Install Referrer
+9com.android.installreferrer
+
+#AWS Kinesis
+18com.amazonaws.metrics
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+130com.huawei.updatesdk
+
+#Google AdMob
+3com.google.android.gms.ads
+
+#Google Analytics
+5com.google.android.gms.analytics
+
+#Google Tag Manager
+3com.google.android.gms.tagmanager
+
+#Microsoft Visual Studio App Center Crashes
+10com.microsoft.appcenter.crashes
+
+#ACRCloud
+42com.acrcloud
+
+#Facebook Analytics
+92com.facebook.appevents
+29com.facebook.marketing
+
+#Facebook Login
+88com.facebook.login
+
+#Facebook Places
+20com.facebook.places
+
+#Facebook Share
+205com.facebook.share
+
+#Google AdMob
+5com.google.android.gms.ads
+
+
+#Adjust
+167com.adjust.sdk
+
+#Branch
+97io.branch.
+
+#Button
+563com.usebutton.sdk
+
+#Google AdMob
+36com.google.ads
+261com.google.android.gms.ads
+
+#Google Analytics
+47com.google.android.gms.analytics
+
+#Google CrashLytics
+359com.google.firebase.crash
+
+#Google Firebase Analytics
+340com.google.android.gms.measurement
+24com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#MixPanel
+243com.mixpanel
+
+#Salesforce Marketing Cloud
+486com.salesforce.marketingcloud
+
+#Snowplow
+133com.snowplowanalytics
+
+#Google Play Install Referrer
+13com.android.installreferrer
+
+#Google Cloud Audit Logs
+17com.google.cloud.audit
+
+*Adjust
+167com.adjust.sdk.
+
+*Branch
+97io.branch.
+
+*Button
+563com.usebutton.sdk.
+
+*Google AdMob
+36com.google.ads.
+261com.google.android.gms.ads.
+
+*Google Analytics
+47com.google.android.gms.analytics.
+
+*Google CrashLytics
+359com.google.firebase.crash
+
+*Google Firebase Analytics
+340com.google.android.gms.measurement.
+24com.google.firebase.analytics.
+1com.google.firebase.firebase_analytics
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#MixPanel
+243com.mixpanel
+
+#Salesforce Marketing Cloud
+486com.salesforce.marketingcloud
+
+#Snowplow
+133com.snowplowanalytics
+
+#Google Play Install Referrer
+13com.android.installreferrer
+
+#Google Cloud Audit Logs
+17com.google.cloud.audit
+
+#ACRA
+
+#ACRA
+160org.acra
+
+#Adjust
+165com.adjust.sdk
+
+#Google AdMob
+6com.google.android.gms.ads
+
+#Google Firebase Analytics
+330com.google.android.gms.measurement
+23com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#Segment
+180com.segment.analytics
+
+#Google Play Install Referrer
+12com.android.installreferrer
+
+#Sentry
+287io.sentry
+
+#ACRA
+164org.acra
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+19com.huawei.agconnect
+122com.huawei.updatesdk
+
+#Huawei Mobile Services (HMS) Core
+4com.huawei.agconnect
+8com.huawei.hms.support.api.push
+145com.huawei.updatesdk
+
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+136com.huawei.updatesdk
+
+#Sentry
+213io.sentry
+
+#Sentry
+55io.sentry
+
+
+#Google AdMob
+6com.google.android.gms.ads
+
+#Google CrashLytics
+385com.google.firebase.crash
+
+#Google Firebase Analytics
+340com.google.android.gms.measurement
+24com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#Optimizely
+270com.optimizely
+
+#Urbanairship
+1010com.urbanairship
+
+
+#Google Firebase Analytics
+
+#Google Firebase Analytics
+1com.google.firebase.analytics
+
+#Google AdMob
+6com.google.android.gms.ads
+
+#Google Analytics
+47com.google.android.gms.analytics
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#Huawei Mobile Services (HMS) Core
+25com.huawei.agconnect
+45com.huawei.hms.location
+28com.huawei.hms.support.api.push
+136com.huawei.updatesdk
+
+
+#Google Firebase Analytics
+2com.google.firebase.analytics
+
+#AdColony
+259com.adcolony
+7com.jirbo.adcolony
+
+#Facebook Ads
+151com.facebook.ads
+
+#Google AdMob
+98com.google.ads
+242com.google.android.gms.ads
+
+#Google CrashLytics
+6com.google.firebase.crash
+
+#Google Firebase Analytics
+304com.google.android.gms.measurement
+9com.google.firebase.analytics
+
+#Unity3d Ads
+24com.unity3d.ads
+414com.unity3d.services
+
+
+#Adjust
+157com.adjust.sdk
+
+#Google Firebase Analytics
+1com.google.firebase.analytics
+
+#LeanPlum
+317com.leanplum
+
+#Mozilla Telemetry
+189mozilla.telemetry.glean
+
+#Google Play Install Referrer
+13com.android.installreferrer
+
+#Sentry
+3io.sentry
+
+#Google CrashLytics
+22com.google.firebase.crash
+
+#Google Firebase Analytics
+309com.google.android.gms.measurement
+9com.google.firebase.analytics
+
+#Metrics
+102com.codahale.metrics
+
+
+#Google AdMob
+28com.google.ads.
+47com.google.android.gms.ads
+
+#Google Analytics
+90com.google.android.gms.analytics
+
+#Google Tag Manager
+201com.google.android.gms.tagmanager
+
+#ACRA
+56org.acra
+
+
+#Huawei Mobile Services (HMS) Core
+
+#Huawei Mobile Services (HMS) Core
+132com.huawei.updatesdk
+
+#Google AdMob
+33com.google.ads
+1com.google.android.ads
+364com.google.android.gms.ads
+
+#Google CrashLytics
+285com.google.firebase.crash
+
+#Google Firebase Analytics
+317com.google.android.gms.measurement
+26com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#Google Cloud Audit Logs
+17com.google.cloud.audit
+
+
+#Google Analytics
+4com.google.android.gms.analytics
+
+#Google AdMob
+6com.google.android.gms.ads
+
+#Google Analytics
+47com.google.android.gms.analytics
+
+#Google CrashLytics
+355com.google.firebase.crash
+
+#Google Firebase Analytics
+332com.google.android.gms.measurement
+32com.google.firebase.analytics
+1com.google.firebase.firebase_analytics
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#Huawei Mobile Services (HMS) Core
+269com.huawei.agconnect
+184com.huawei.hms.analytics
+133com.huawei.updatesdk
+
+#OneSignal
+417com.onesignal
