@@ -1073,3 +1073,35 @@ msh.amazon.co.uk
 
 #Verizon Ads
 811com.verizon.ads
+
+#Google Play Install Referrer
+8com.android.installreferrer
+
+#Sentry
+25io.sentry
+
+#Facebook Login
+58com.facebook.login
+
+#Amazon Advertisement
+557com.amazon.device.ads
+
+#Google CrashLytics
+293com.google.firebase.crash
+
+
+
+#Google Firebase Analytics
+327com.google.android.gms.measurement.
+26com.google.firebase.analytics.
+1com.google.firebase.firebase_analytics
+
+#Google CrashLytics
+10com.google.firebase.crash
+
+#Google CrashLytics
+26com.google.firebase.crash
+
+
+#Google CrashLytics
+291com.google.firebase.crash
